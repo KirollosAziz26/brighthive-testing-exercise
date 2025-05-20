@@ -163,13 +163,4 @@ def build_agent_graph():
     return builder.compile()
 ```
 
----
-
-Let me know if you'd like:
-
-* A version of this in a GitHub repo
-* A follow-up round for candidates (e.g., debugging broken tests, reviewing test output)
-* Test case rubric with point scoring
-
-Would you like me to generate the full project archive as a downloadable ZIP?
 
