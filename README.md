@@ -1,11 +1,6 @@
-Here's a complete test exercise package designed for hiring **automated testing engineers** at Brighthive. This package is focused on evaluating candidates' ability to test both:
 
-* The **SaaS Layer** of your AI Agent Data workspace (API surface, user logic, endpoints, workflows)
-* The **Agent Layer**, specifically using **LangGraph**, which orchestrates agents in a data/AI context
 
----
-
-## 📄 README: Automated Testing Engineer - Take-Home Exercise
+## 📄 Automated Testing Engineer - Take-Home Exercise
 
 ### Welcome!
 
